@@ -131,7 +131,7 @@ dev = [
     "nbsphinx==0.9.5",
     "nbstripout==0.6.1",
     "ruff==0.14.5",
-    "sphinx-argparse==0.4.0",
+    "sphinx-argparse==0.6.1",
     "pipreqs==0.4.13",
     "mdformat==1.0.0",
     "mdformat-gfm==1.0.0",
